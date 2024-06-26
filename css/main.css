@@ -28,17 +28,17 @@ p {
 }
 
 .parallax1 {
-  background-image: url("/img/fantastic-seascape-with-ripples.jpg");
+  background-image: url("../img/fantastic-seascape-with-ripples.jpg");
 }
 
 .parallax2 {
-  background-image: url("/img/nastol.com.ua-27713.jpg");
+  background-image: url("../img/nastol.com.ua-27713.jpg");
 }
 
 .parallax3 {
-  background-image: url("/img/young-woman-having-picnic-lavander-field.jpg");
+  background-image: url("../img/young-woman-having-picnic-lavander-field.jpg");
 }
 
 .parallax4 {
-  background-image: url("/img/majestic-mountains-with-snow-water-scene-generative-ai.jpg");
+  background-image: url("../img/majestic-mountains-with-snow-water-scene-generative-ai.jpg");
 }/*# sourceMappingURL=main.css.map */
